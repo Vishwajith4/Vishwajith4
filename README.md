@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vishwajith4
-- 👀 I’m interested in ...becoming a data analytics
+- 👀 I’m interested in ...becoming a data analyst
 - 🌱 I’m currently learning ...Msc data science at Thiagarajar college of engineering,Madurai 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...vishwajith.tce2021@gmail.com
